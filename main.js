@@ -4,7 +4,7 @@ function start() {
 
   var link = "http://ai2.appinventor.mit.edu/"; // link to app webpage
   var title = "ai2"; // title shown in navbar
-  var id = "https://redstone-nw.netlify.app/clockwork-app/ai2.js"; // set this to the url location of your script
+  var id = "https://raw.githubusercontent.com/Susytest/ai2/main/main.js"; // set this to the url location of your script
   
   ////SCRIPT////
   
