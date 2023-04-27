@@ -2,7 +2,7 @@ function start() {
 
   ////CONFIG////
 
-  var link = "http://ai2.appinventor.mit.edu/"; // link to app webpage
+  var link = "http://ai2.appinventor.mit.edu.html"; // link to app webpage
   var title = "ai2"; // title shown in navbar
   var id = "https://raw.githubusercontent.com/Susytest/ai2/main/main.js"; // set this to the url location of your script
   
